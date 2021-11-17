@@ -1,0 +1,1 @@
+{"model_type": "RoomCleanerModel", "time_stamp": "2021-11-17 17:03:57.781844", "agentpy_version": "0.1.4", "python_version": "3.8.1", "experiment": true, "scheduled_runs": 1500, "completed": true, "random": true, "record": false, "sample_size": 30, "iterations": 50, "run_time": "0:05:01.301593"}
